@@ -1,0 +1,47 @@
+div {
+  min-width: 200px;
+  max-width: 600px;
+  height: 200px;
+  padding: 50px;
+  border: solid black 5px;
+  box-sizing: border-box
+}
+
+#first-div {
+
+  background-color: #39cccc;
+}
+
+#second-div {
+  background-color: #ff4136;
+}
+
+#third-div {
+  min-height: 10px;
+  max-height: 1000px;
+  max-width: 100px;
+  background-color: lightgrey
+}
+
+.image-1-container {
+  height: 600px;
+  width: 200px;
+  background-color: aqua
+}
+
+
+.image-2-container {
+  display: inline-block;
+  height: 600px;
+  width: 200px;
+  background-color: aqua
+}
+
+
+img {
+  width:100%
+}
+
+p {
+  background-color: #7fdbff;
+}
